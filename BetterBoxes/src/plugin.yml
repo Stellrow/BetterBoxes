@@ -1,0 +1,12 @@
+name: BetterBoxes
+author: Stellrow
+api-version: 1.13
+version: 1.0
+main: ro.Stellrow.BetterBoxes.BetterBoxes
+
+commands:
+  betterboxes:
+    usage: /betterboxes
+    aliases:
+      - bb
+      - bbox

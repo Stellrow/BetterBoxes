@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BetterBoxes:jar">
+    <output-path>$PROJECT_DIR$/../../../D/Default/pubserver/pub.1.16.3pap/plugins</output-path>
+    <root id="archive" name="BetterBoxes.jar">
+      <element id="module-output" name="BetterBoxes" />
+    </root>
+  </artifact>
+</component>
